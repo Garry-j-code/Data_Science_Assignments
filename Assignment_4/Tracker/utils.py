@@ -9,5 +9,5 @@ def clear_screen():
        command = 'clear'
     os.system(command)
 
-base_dir = os.path.dirname(__file__)  
+base_dir = os.path.dirname(os.path.dirname(__file__))  
 db_path = os.path.join(base_dir, "data/records.csv")    
