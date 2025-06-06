@@ -23,7 +23,8 @@
                     "firstname": "John",
                     "surname": "Jumper",
                     "motivation": "\"for protein structure prediction\"",
-                    "share": "4"
+                    "share": "4",
+                    "name":"Gagan"
                 }
             ]
         },
