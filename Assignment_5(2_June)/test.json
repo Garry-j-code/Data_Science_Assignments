@@ -187,7 +187,14 @@
                     "share": "3"
                 },
                 {
-                     "id": "1063",
+                     "id": "1064",
+                    "firstname": "James",
+                    "surname": "Robinson",
+                    "motivation": "\"for studies of how institutions are formed and affect prosperity\"",
+                    "share": "3"
+                },
+                {
+                     "id": "1065",
                     "firstname": "James",
                     "surname": "Robinson",
                     "motivation": "\"for studies of how institutions are formed and affect prosperity\"",
